@@ -16,7 +16,7 @@
 
     <h1 id='titulo'>Leia as cartas!</h1>
     <h3 style='text-align: center' id='subtitulo'>De pessoas, para pessoas.</h3>
-    <h3 style='font-size: 1.4em; margin-top: 2em;' id='titulo'>Ouça o que elas tem a dizer.</h3>
+    <h3 style='font-size: clamp(1px, 3.5vw, 1.4em); margin-top: 2em;' id='titulo'>Ouça o que elas tem a dizer.</h3>
 
   </div>
 

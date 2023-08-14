@@ -53,7 +53,7 @@
         $mail->send();
 
         echo "<div class='container'>";
-        echo "  <h1 style='font-size: 1.8em;' id='titulo'>Sua carta foi enviada!</h1>";
+        echo "  <h1 style='font-size: clamp(1px, 7vw, 2.8em);' id='titulo'>Sua carta foi enviada!</h1>";
         echo "  <h3 style='font-size: 2em; margin-bottom: 4vh; text-align: center' id='subtitulo'>Obrigado pelo seu tempo.</h3>";
         echo "  <h3 style='padding-bottom: 1vh;' id='aviso'>Suas palavras. Suas ideias, seus sentimentos.</h3>";
         echo "  <h3 style='padding-bottom: 1vh;' id='aviso'>Talvez algumas pessoas estejam ansiosas para saber o que você tem a dizer para elas.</h3>";
