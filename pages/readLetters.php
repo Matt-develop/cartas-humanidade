@@ -14,7 +14,7 @@
 
   <div class='container'>
 
-    <h1 style='font-size: 2.8em;' id='titulo'>Leia as cartas!</h1>
+    <h1 id='titulo'>Leia as cartas!</h1>
     <h3 style='text-align: center' id='subtitulo'>De pessoas, para pessoas.</h3>
     <h3 style='font-size: 1.4em; margin-top: 2em;' id='titulo'>Ouça o que elas tem a dizer.</h3>
 
